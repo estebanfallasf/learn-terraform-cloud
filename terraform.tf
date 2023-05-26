@@ -1,5 +1,5 @@
 terraform {
-/*
+  /*
   cloud {
     organization = "learn-terraform-cloud_ejf"
 
